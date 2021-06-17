@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="Catalog.ОбразцыФорм" id="c8332779-a5c7-402a-b9c7-783d530e303b" configVersion="7b43c4434fd72047a2fab7b601fab04900000000"/>
+		<Metadata name="Catalog.ОбразцыФорм.Form.ФормаЭлемента" id="540b8ad1-2fc2-43c9-b85b-eaca35d3dbc8" configVersion="24dfdd1d0a0f8d4693597e181421e01e00000000"/>
+		<Metadata name="Catalog.ОбразцыФорм.Form.ФормаЭлемента.Form" id="540b8ad1-2fc2-43c9-b85b-eaca35d3dbc8.0" configVersion="c4678bee78e4794a9ca398755d6aeb1600000000"/>
+		<Metadata name="Catalog.СозданныеПоОбразцу" id="dbdc5e7d-2125-425c-9b28-216a8664310a" configVersion="70989b42468df64fbb88b5d7e89c09f800000000"/>
+		<Metadata name="CommonModule.СборкаФормПовтИсп" id="1ccbc04b-e994-4b27-9b34-4e72b044c824" configVersion="6cefec6939f65d49aa2c88d4bcbbb16500000000"/>
+		<Metadata name="CommonModule.СборкаФормПовтИсп.Module" id="1ccbc04b-e994-4b27-9b34-4e72b044c824.0" configVersion="d509d6ee78043f4a991bd18dec465eae00000000"/>
+		<Metadata name="CommonModule.СборкаФормСервер" id="c705e881-d67e-4b23-acf2-163ba3ad3438" configVersion="27c5fc7fe356c54394616a9c4d8541fe00000000"/>
+		<Metadata name="CommonModule.СборкаФормСервер.Module" id="c705e881-d67e-4b23-acf2-163ba3ad3438.0" configVersion="1a93b7630c1d7f4780c66a3a90b73b4c00000000"/>
+		<Metadata name="CommonTemplate.СозданиеЭлементовФаксимиле" id="7f5b105e-f476-4422-a9d4-f0fa6bb38af0" configVersion="9dbf063cb6f1b342b8636337b380738c00000000"/>
+		<Metadata name="CommonTemplate.СозданиеЭлементовФаксимиле.Template" id="7f5b105e-f476-4422-a9d4-f0fa6bb38af0.0" configVersion="207dae583995074a8cc0b38b2445537b00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="349b26cf-a4d9-45bd-85ab-aef29ea6772e" configVersion="a348932a8a3c0742b63cfdb51333a6f000000000"/>
+		<Metadata name="Language.Русский" id="cc8f349e-a490-4f8e-9ba9-aa379c64883b" configVersion="3067c6dd0dda1e43a1dfe4c6c86cec7e00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
